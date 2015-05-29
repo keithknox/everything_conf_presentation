@@ -25,7 +25,7 @@ So what are the advantages of using this free software?
     2. You can install it on pretty much any computer and even share it with your friends if you'd like no license or key required.
     3. It is well maintained and rarely crashes.  No blue screen of death here.
     4. It's pretty damn secure. Even with the ShellShock outbreak last year, it still has a rather impressive track record over the past 20+ years.  There are also several distros that have a security focus in mind.
-    6. Apps are incredibly easy to install.  Several distros have their own package or application managers that will go get it for you like Ubuntu's Unity  you can install most of your software directly from the command line.  It's pretty baller when you type in one command see everything load for you.
+    6. Apps are incredibly easy to install.  Several distros have their own package or application managers that will go get it for you like Ubuntu's Software Manager  you can install most of your software directly from the command line.  It's pretty baller when you type in one command see everything load for you.
     5. Linux is damn fast.  There's rarely any bloatware in there and users can easily get rid of what they don't need in order to make it faster. Because of it's light weight, you can use it to breathe life into old computers.
 
 
